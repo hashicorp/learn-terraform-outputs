@@ -1,8 +1,7 @@
-# Learn Terraform count and for_each
+# Learn Terraform outputs
 
-Learn what Terraform count and for_each are and when to use them.
+Learn how Terraform output values allow you to export structured data about your resources.
 
-Follow along with these tutorials for
-[count](https://learn.hashicorp.com/tutorials/terraform/count) and
-[for_each](https://learn.hashicorp.com/tutorials/terraform/for-each) on
-HashiCorp Learn.
+Follow along [with this
+tutorial](https://learn.hashicorp.com/tutorials/terraform/outputs?in=terraform/configuration-language) on HashiCorp
+Learn.
