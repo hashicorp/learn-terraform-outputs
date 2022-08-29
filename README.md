@@ -1,7 +1,4 @@
 # Learn Terraform outputs
 
-Learn how Terraform output values allow you to export structured data about your resources.
-
-Follow along [with this
-tutorial](https://learn.hashicorp.com/tutorials/terraform/outputs?in=terraform/configuration-language) on HashiCorp
-Learn.
+This repo is a companion repo to the [Learn Terraform outputs](https://developer.hashicorp.com/terraform/tutorials/configuration-language/outputs) tutorial.
+It contains Terraform configuration you can use to learn how Terraform output values allow you to export structured data about your resources.
