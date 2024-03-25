@@ -102,6 +102,7 @@ resource "aws_db_subnet_group" "private" {
 resource "aws_db_instance" "database" {
   allocated_storage = 5
   engine            = "mysql"
+  engine_version    = "5.7"
   instance_class    = "db.t3.micro"
   username          = var.db_username
   password          = var.db_password
